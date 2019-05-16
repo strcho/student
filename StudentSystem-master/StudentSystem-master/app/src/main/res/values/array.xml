@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sel">
+        <item>id</item>
+        <item>name</item>
+        <item>age</item>
+        <item>cj</item>
+    </array>
+
+</resources>
